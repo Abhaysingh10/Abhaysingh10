@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Abhaysingh10/Portfolio)
+- 🔭 I’m currently working on [Baatein](https://github.com/Abhaysingh10/Baatein)
 
 - 🌱 I’m currently learning **Node**
 
